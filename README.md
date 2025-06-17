@@ -1,5 +1,3 @@
-# SJ
-Shopping wab
 <!DOCTYPE html>
 <html lang="en">
 <head>
